@@ -2,7 +2,7 @@
 
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jesusherrera94&title=Profile%20Views&edge_flat=true)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact)
 
 
 <!--
