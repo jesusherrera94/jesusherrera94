@@ -22,7 +22,7 @@ Hi there 👋 Jesus here!
 
 <h4 align="left">Connect with me 🤝</h4>
 <p align="left">
-    <a href="mailto:jesusherrera1594@gmail.com">Via email</a> <strong>jesusherrera1594@gmail.com</strong>
+    <a href="mailto:jesusherrera1594@gmail.com">Via email: </a> <strong>jesusherrera1594@gmail.com</strong>
 </p>
 
 <p align="left">
