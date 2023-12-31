@@ -5,8 +5,26 @@ Hi there 👋 Jesus here!
 
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jesusherrera94&title=Profile%20Views&edge_flat=true) ![Language](https://img.shields.io/badge/Language-EN%20%7C%20ES-blue)
 
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&hide=css,scss,less&title=Top%20Languages)
+
+<h5 align="center">Background</h5>
+<p>Software developer with 4 years of experience leading teams, developing and distributing mobile and web apps, and designing architecture with microservices.</p>
+
+- 💬 Ask me about **AWS Services, React, NodeJS, Mongo, C++, Flutter, Swift, JUCE**
+
+<h5 align="center">In Progress...</h5>
+- 🌱 I’m currently learning **DSP, JUCE, CMajor**
+
+<h5 align="center">Outside Dev...</h5>
+- 🎸 I’m a musician, I play guitar, bass and a little piano and I'm really good at identifying effects in songs.
+
+<h5 align="center">Connect with me 🤝</h5>
+
+<a href="mailto:jesusherrera1594@gmail.com">Via email</a>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jesus-alberto-herrera199415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-herrera-linkedin" height="30" width="40" /></a>
+</p>
 
 
 <!--
