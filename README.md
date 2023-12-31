@@ -1,6 +1,6 @@
 ### Hi there 👋 Jesus Herrera here!
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jesusherrera94)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jesusherrera94&title=Profile%20Views&edge_flat=true)
 <!--
 **jesusherrera94/jesusherrera94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
