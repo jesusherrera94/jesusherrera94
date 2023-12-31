@@ -21,8 +21,9 @@ Hi there 👋 Jesus here!
 - 🎸 I’m a musician, I play guitar, bass and a little piano and I'm really good at identifying effects in songs.
 
 <h4 align="left">Connect with me 🤝</h4>
-
-<a href="mailto:jesusherrera1594@gmail.com">Via email</a> <p><strong>jesusherrera1594@gmail.com</strong></p>
+<p align="left">
+    <a href="mailto:jesusherrera1594@gmail.com">Via email</a> <strong>jesusherrera1594@gmail.com</strong>
+</p>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jesus-alberto-herrera199415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-herrera-linkedin" height="30" width="40" /></a>
