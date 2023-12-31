@@ -7,18 +7,18 @@ Hi there 👋 Jesus here!
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&hide=css,scss,less&title=Top%20Languages)
 
-<h5 align="center">Background</h5>
+<h4 align="left">Background</h4>
 <p>Software developer with 4 years of experience leading teams, developing and distributing mobile and web apps, and designing architecture with microservices.</p>
 
 - 💬 Ask me about **AWS Services, React, NodeJS, Mongo, C++, Flutter, Swift, JUCE**
 
-<h5 align="center">In Progress...</h5>
+<h4 align="left">In Progress...</h4>
 - 🌱 I’m currently learning **DSP, JUCE, CMajor**
 
-<h5 align="center">Outside Dev...</h5>
+<h4 align="left">Outside Dev...</h4>
 - 🎸 I’m a musician, I play guitar, bass and a little piano and I'm really good at identifying effects in songs.
 
-<h5 align="center">Connect with me 🤝</h5>
+<h4 align="left">Connect with me 🤝</h4>
 
 <a href="mailto:jesusherrera1594@gmail.com">Via email</a>
 
