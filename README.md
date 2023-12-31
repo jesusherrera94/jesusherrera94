@@ -2,6 +2,8 @@
 
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jesusherrera94&title=Profile%20Views&edge_flat=true)
 
+![Language](https://img.shields.io/badge/Language-EN%20%7C%20ES-brightgreen)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&hide=css,scss,less&title=Top%20Languages)
 
 
