@@ -1,5 +1,7 @@
 ### Hi there 👋 Jesus Herrera here!
 
+<h3 align="center">Fullstack Developer | Audio Developer Enthusiast</h3>
+
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jesusherrera94&title=Profile%20Views&edge_flat=true) ![Language](https://img.shields.io/badge/Language-EN%20%7C%20ES-blue)
 
 
