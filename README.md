@@ -8,7 +8,7 @@ Hi there 👋 Jesus here!
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&hide=css,scss,less&title=Top%20Languages)
 
 <h4 align="left">Background</h4>
-<p>Software developer with 4 years of experience leading teams, developing and distributing mobile and web apps, and designing architecture with microservices.</p>
+<p>Software developer with 5 years of experience leading teams, developing and distributing mobile and web apps, and designing architecture with microservices.</p>
 
 - 💬 Ask me about **AWS Services, React, NodeJS, Mongo, C++, Flutter, Swift, JUCE**
 
