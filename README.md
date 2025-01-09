@@ -14,11 +14,11 @@ Hi there 👋 Jesus here!
 
 <h4 align="left">In Progress...</h4>
 
-- 🌱 I’m currently learning **DSP, JUCE, CMajor**
+- 🌱 I’m currently learning **Rust**
 
 <h4 align="left">Outside Dev...</h4>
 
-- 🎸 I’m a musician, I play guitar, bass and a little piano and I'm really good at identifying effects in songs.
+- 🎸 I’m a musician, I play guitar, bass, and a little piano and I'm good at identifying effects in songs.
 
 <h4 align="left">Connect with me 🤝</h4>
 <p align="left">
