@@ -11,6 +11,7 @@ Hi there 👋 Jesus here!
 <p>Software developer with 5 years of experience leading teams, developing and distributing mobile and web apps, and designing architecture with microservices.</p>
 
 - 💬 Ask me about **AWS Services, React, NodeJS, Mongo, C++, Flutter, Swift, JUCE**
+- I love coding!
 
 <h4 align="left">In Progress...</h4>
 
