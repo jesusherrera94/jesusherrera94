@@ -8,26 +8,23 @@ Hi there 👋 Jesus here!
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&hide=css,scss,less,python,HTML,cmake,java&title=Top%20Languages)
 
 <h4 align="left">Background</h4>
-<p>Software developer with 5 years of experience leading teams, developing and distributing mobile and web apps, and designing architecture with microservices.</p>
+<p>Software Developer with +8 years of experience creating Web, Mobile and Desktop apps</p>
 
-- 💬 Ask me about **AWS Services, React, NodeJS, Mongo, C++, Flutter, Swift, JUCE**
+- 💬 Ask me about **AWS Services, React, NodeJS, C++, Flutter, Swift, Rust**
 - I love coding!
 
 <h4 align="left">In Progress...</h4>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Faust**
 
 <h4 align="left">Outside Dev...</h4>
 
-- 🎸 I’m a musician, I play guitar, bass, and a little piano and I'm good at identifying effects in songs.
+- 🎸 I’m a musician, I play guitar, bass, and a little piano, and I'm good at identifying effects in songs.
 
 <h4 align="left">Connect with me 🤝</h4>
-<p align="left">
-    <a href="mailto:jesusherrera1594@gmail.com">Via email: </a> <strong>jesusherrera1594@gmail.com</strong>
-</p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jesus-alberto-herrera199415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-herrera-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/herrera-jesus/?locale=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-herrera-linkedin" height="30" width="40" /></a>
 </p>
 
 
