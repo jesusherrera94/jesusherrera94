@@ -3,7 +3,6 @@ Hi there 👋 Jesus here!
 </h1>
 <h3 align="center">Fullstack Developer | Audio Developer Enthusiast</h3>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&hide=css,scss,less,python,HTML,cmake,java&title=Top%20Languages)
 
 <h4 align="left">Background</h4>
 <p>Software Developer with +8 years of experience creating Web, Mobile and Desktop apps</p>
