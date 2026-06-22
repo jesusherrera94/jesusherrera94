@@ -1,4 +1,4 @@
-# Hi there, I'm Jesus Alberto Herrera Puerto 👋
+# Hi there, I'm Jesus Herrera  👋
 
 ## Senior Full Stack Developer | Mobile Engineer | Audio & DSP Specialist
 ### Rust 🦀 | C++ | Javascript | Typescript
