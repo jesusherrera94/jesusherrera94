@@ -12,7 +12,7 @@ Hi there 👋 Jesus here!
 
 <h4 align="left">In Progress...</h4>
 
-- 🌱 I’m currently learning **Faust**
+- 🔭 I’m currently working on DSP effects and a Suite to test audio effects simulating hardware like the Daisy Seed on the pc using **Rust** 🚀
 
 <h4 align="left">Outside Dev...</h4>
 
