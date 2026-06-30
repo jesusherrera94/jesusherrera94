@@ -3,13 +3,13 @@
 ## Senior Full Stack Developer | Mobile Engineer | Audio & DSP Specialist
 ### Rust 🦀 | C++ | Javascript | Typescript
 I am a software engineer based in Tegucigalpa, Honduras, with over 6 years of experience building web, mobile, and desktop applications. My expertise spans from designing high-traffic AWS architectures that support up to 20,000 concurrent users to developing real-time communication features. Alongside my enterprise experience, I specialize in low-level hardware interactions and Digital Signal Processing (DSP).
-
+<!-- 
 ### Language & Ecosystem Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&langs_count=8&theme=radical&&hide=dart,css,scss,less,javascript,html,typescript,python" alt="Jesus's Top Languages" />
 </p>
-
+-->
 
 ### Technical Arsenal
 
