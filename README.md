@@ -12,9 +12,10 @@ I am a software engineer based in Tegucigalpa, Honduras, with over 6 years of ex
 -->
 
 ### Language & Ecosystem Metrics
-<div style="align: center;">
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&langs_count=8&theme=radical&hide=dart,css,scss,less,javascript,html,typescript,python)
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&langs_count=8&theme=radical&hide=dart,css,scss,less,javascript,html,typescript,python" alt="Jesus's Top Languages" />
+</p>
+
 ### Technical Arsenal
 
 *   **Systems & Audio:** C/C++, Rust, and JUCE. Additional expertise in Faust, `cpal`, `rodio`, and immediate-mode GUIs (`egui`).
