@@ -13,9 +13,7 @@ I am a software engineer based in Tegucigalpa, Honduras, with over 6 years of ex
 
 ### Language & Ecosystem Metrics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&langs_count=8&theme=radical&hide=dart,css,scss,less,javascript,html,typescript,python" alt="Jesus's Top Languages" />
-</p>
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jesusherrera94&layout=compact&langs_count=8&theme=radical&hide=dart,css,scss,less,javascript,html,typescript,python")
 
 ### Technical Arsenal
 
