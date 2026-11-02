@@ -1,7 +1,7 @@
 # Hi there, I'm Jesus Herrera  👋
 
 ## Senior Full Stack Developer | Mobile Engineer | Audio & DSP Specialist
-### Rust 🦀 | C++ | Javascript | Typescript
+### C++  | Rust 🦀 | Javascript | Typescript
 I am a software engineer based in Tegucigalpa, Honduras, with over 6 years of experience building web, mobile, and desktop applications. My expertise spans from designing high-traffic AWS architectures that support up to 20,000 concurrent users to developing real-time communication features. Alongside my enterprise experience, I specialize in low-level hardware interactions and Digital Signal Processing (DSP).
 <!-- 
 ### Language & Ecosystem Metrics
