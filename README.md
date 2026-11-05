@@ -1,8 +1,8 @@
 # Hi there, I'm Jesus Herrera  👋
 
-## Senior Full Stack Developer | Mobile Engineer | Audio & DSP Specialist
+## Senior Full Stack Engineer | Mobile Engineer
 ### C++  | Rust 🦀 | Javascript | Typescript
-I am a software engineer based in Tegucigalpa, Honduras, with over 6 years of experience building web, mobile, and desktop applications. My expertise spans from designing high-traffic AWS architectures that support up to 20,000 concurrent users to developing real-time communication features. Alongside my enterprise experience, I specialize in low-level hardware interactions and Digital Signal Processing (DSP).
+I am a Senior Fullstack engineer based in Tegucigalpa, Honduras, with over 7 years of experience building web, mobile, and desktop applications. My expertise spans from designing high-traffic AWS architectures that support up to 20,000 concurrent users to developing real-time communication features. Alongside my enterprise experience, I specialize in low-level hardware interactions and Digital Signal Processing (DSP).
 <!-- 
 ### Language & Ecosystem Metrics
 
@@ -21,7 +21,7 @@ I am a software engineer based in Tegucigalpa, Honduras, with over 6 years of ex
 *   **Systems & Audio:** C/C++, Rust, and JUCE. Additional expertise in Faust, `cpal`, `rodio`, and immediate-mode GUIs (`egui`).
 *   **Mobile Development:** Swift, Dart, React Native, Flutter, and Expo.
 *   **Frontend & Desktop:** Javascript/TypeScript, ReactJS, NextJS, and ElectronJS.
-*   **Backend & APIs:** Java, NodeJS, NestJS, GraphQL, Stream Chat, and Stripe.
+*   **Backend & APIs:** Java, Node.js, NestJS, GraphQL, Stream Chat, and Stripe.
 *   **Infrastructure & Cloud:** AWS, Firebase, Vercel, and CI/CD pipelines using GitHub Actions and Fastlane.
 *   **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, and Firebase Real-Time Database.
 *   **Architecture & Practices:** Domain-Driven Development, SOLID principles, Microservices, and Agile frameworks including Scrum and SaFE.
